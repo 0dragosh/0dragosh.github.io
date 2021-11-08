@@ -25,4 +25,4 @@ defaults:
     values:
       tags: Other
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
