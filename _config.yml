@@ -25,4 +25,4 @@ defaults:
     values:
       tags: Other
 
-theme: "minima"
+theme: jekyll-theme-hacker
